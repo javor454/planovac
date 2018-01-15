@@ -1,0 +1,8 @@
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\bin\Debug\planovac2Tests.dll
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\bin\Debug\planovac2Tests.pdb
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\bin\Debug\planovac2.exe
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\bin\Debug\planovac2.pdb
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\obj\Debug\planovac2Tests.csprojResolveAssemblyReference.cache
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\obj\Debug\planovac2Tests.dll
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2Tests\obj\Debug\planovac2Tests.pdb

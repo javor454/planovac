@@ -1,0 +1,16 @@
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\bin\Debug\planovac2.exe.config
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.csprojResolveAssemblyReference.cache
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.MainForm.resources
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.Properties.Resources.resources
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.csproj.GenerateResource.Cache
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\bin\Debug\planovac2.exe
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\bin\Debug\planovac2.pdb
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.exe
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.pdb
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.PlanningForm.resources
+c:\users\javor_000\documents\visual studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.ResponsibilityForm.resources
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.AlertForm.resources
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2\bin\Debug\planovac2.exe.manifest
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2\bin\Debug\planovac2.application
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.exe.manifest
+C:\Users\javor_000\Documents\Visual Studio 2015\Projects\planovac2\planovac2\obj\Debug\planovac2.application
